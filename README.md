@@ -223,7 +223,7 @@ Once deployed, go to the "Storage accounts" section in the Azure Portal, click o
 8. Containers :
 Go to containers in data storage and upload files by drag and drop.
 
-![Storage accounts](../HealthHubConnect/assets/azure/storageAccount.png)
+![Storage accounts](https://github.com/SOMNATH0904/HealthHubConnect/blob/main/assets/azure/storageAccount.png)
 
 # STAGE 7 : STEPS FOR CREATING HEALTH BOT
 
@@ -260,7 +260,7 @@ Use the Health Bot management portal to set up health scenarios and prompts.
 11. Test and Integrate:
 Validate your Health Bot within Azure and integrate it into your applications or platforms as required.
 
-![Azure Healthbot](../HealthHubConnect/assets/azure/healthhub.png)
+![Azure Healthbot](https://github.com/SOMNATH0904/HealthHubConnect/blob/main/assets/azure/healthhub.png)
 
 # STAGE 8 : STEPS FOR INTEGRATING HEALTHBOT TO YOUR WEBSITE
  
@@ -293,11 +293,11 @@ Implement the necessary logic to handle user interactions and messages sent to a
 11. Test Integration:
 Test the Health Bot integration on your website to ensure that user inputs are correctly processed, and responses are displayed.
 
-![healthbot integrate](../HealthHubConnect/assets/azure/Healthbot.png)
+![healthbot integrate](https://github.com/SOMNATH0904/HealthHubConnect/blob/main/assets/azure/Healthbot.png)
 
 
 # MEDICK HEALTHBOT
-![heathbot](../HealthHubConnect/assets/azure/HealthHubConnectBot.png)
+![heathbot](https://github.com/SOMNATH0904/HealthHubConnect/blob/main/assets/azure/HealthHubConnectBot.png)
 
 # MEDICK HOMEPAGE
-![homepage](../HealthHubConnect/assets/azure/HealthHubConnectFrontPage.png)
+![homepage](https://github.com/SOMNATH0904/HealthHubConnect/blob/main/assets/azure/HealthHubConnectFrontPage.png)
