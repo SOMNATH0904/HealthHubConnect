@@ -192,7 +192,7 @@ Azure will deploy your static web app. Wait for the deployment to complete.
 
 7. Access Your Website:
 Once deployed, go to the Static Web Apps resource in the Azure Portal, find the "URL" under the "Overview" section, and access your website.
-![static websites](https://github.com/SOMNATH0904/HealthHUbConnect/assets/azure/deploy.png)
+![static websites](https://github.com/SOMNATH0904/HealthHubConnect/blob/main/assets/azure/deploy.png)
 
 *MY WEBSITE URL :* https://kind-bush-0505c8100.5.azurestaticapps.net/
 
